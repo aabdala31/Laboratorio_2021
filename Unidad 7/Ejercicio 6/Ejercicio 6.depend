@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625579599 source:c:\users\agustin\desktop\colegio\lab de algoritmos y e\unidad 7\ejercicio 6\main.cpp
+	<iostream>
+	<vector>
+	<locale.h>
+

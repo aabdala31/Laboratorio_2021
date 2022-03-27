@@ -1,0 +1,3 @@
+C:/Users/Agustin/Desktop/colegio/lab de algoritmos y e/Unidad 7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Agustin/Desktop/colegio/lab de algoritmos y e/Unidad 7/cmake-build-debug/CMakeFiles/Unidad_7.dir
+C:/Users/Agustin/Desktop/colegio/lab de algoritmos y e/Unidad 7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
